@@ -1,0 +1,21 @@
+import Img01d from './01d.png'
+import Img01n from './01n.png'
+import Img02d from './02d.png'
+import Img02n from './02n.png'
+import Img03d from './03d.png'
+import Img03n from './03n.png'
+import Img04d from './04d.png'
+import Img04n from './04n.png'
+import Img09d from './09d.png'
+import Img09n from './09n.png'
+import Img10d from './10d.png'
+import Img10n from './10n.png'
+import Img11d from './11d.png'
+import Img11n from './11n.png'
+import Img13d from './13d.png'
+import Img13n from './13n.png'
+import Img50d from './50d.png'
+import Img50n from './50n.png'
+
+
+export const weatherIcons=[Img01d,Img01n,Img02d,Img02n,Img03d,Img03n,Img04d,Img04n,Img09d,Img09n,Img10d,Img10n,Img11d,Img11n,Img13d,Img13n,Img50d,Img50n]
